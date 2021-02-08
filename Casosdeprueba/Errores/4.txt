@@ -1,0 +1,6 @@
+fun ejemplo (pa1:int):int
+variable1: int
+while variable1 < 10
+variable = variable + 2
+end
+end

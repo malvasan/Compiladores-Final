@@ -1,0 +1,4 @@
+fun ejemplo ():int
+variable1= int
+return 
+end

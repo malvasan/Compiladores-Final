@@ -1,0 +1,5 @@
+fun ejemplo (pa1:int):int
+variable1: int
+variable1 = 2
+return variable1
+end

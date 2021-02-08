@@ -1,0 +1,4 @@
+fun ejemplo (pa1:char):int
+variable1: char
+variable1 = 'hola como estas'
+end

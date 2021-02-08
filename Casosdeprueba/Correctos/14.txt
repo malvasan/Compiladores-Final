@@ -1,0 +1,9 @@
+fun ejemplo (pa1:int):int
+variable1: int
+variable2: int
+if true 
+variable2 = 2
+else 
+variable2 = 1
+end
+end

@@ -1,0 +1,4 @@
+fun ejemplo (pa1:int,pa2:int):int
+variable1: int
+variable1 = 5 / 10
+end

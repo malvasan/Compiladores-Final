@@ -1,0 +1,13 @@
+fun ejemplo (pa1:int):int
+variable1: int
+variable2: int
+var: int
+var2: int
+if var < var2 
+variable2 = 2
+else if var2 < var 
+variable2 = variable1 + 2
+else
+variable2 = variable1 * 2
+end
+end
